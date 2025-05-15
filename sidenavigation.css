@@ -216,7 +216,7 @@
   border-radius: 50%;
 }
 .box1{
-  transform:translateX(-287px) scale(0.42);
+  transform:translateX(-284px) scale(0.413);
   max-width:970px;
   background: linear-gradient(55deg,  white 40% , blueviolet 30%);
 }
@@ -232,8 +232,8 @@ html h3{
   height:40px
 }
 html .box2{
-  width:400px;
-  transform:translateX(-4px);
+  width:395px;
+  transform:translateX(3px);
   height:400px
 }
 html #shoppingbag{
