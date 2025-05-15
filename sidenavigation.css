@@ -640,7 +640,81 @@ html .cont2, html .cont3{
 }
 
 *//
+ @media(max-width:360px){
+    html .cart-icon{
+      transform:translateX(10px)
+    }
+    html .top-nav .Logo{
+      transform:translateX(-200px)
+    }
+    
+    .Searching{
+      transform:translateX(-500px) translateY(20px) scale(0.86)
+    }
+    .bx-menu{
+ margin-left: 450px;
+    }
+    
+   html .cont{
+      transform:translateX(260px) scale(0.6)
+    }
+    
+    html .box1{
+       transform:translateX(-310px) scale(0.359);
+  max-width:970px;
+    }
+    
+    html h3{
+      transform: translateX(-410px)
+    }
+    html .box2{
+       width:385px;
+  transform:translateX(-23px);
+      scale:0.87
+    }
+   
+    
+    html .cont2, html .cont3{
+  margin-left:-75px;
+  gap:100px;
+      scale:0.95
+}
+    
+    .footer{
+   width:345px   
+    }
+    
+     .row-2 ul{
+    transform:translateX(300px)  translateY(-110px);
+  }
+    
+    .row-1 ul{
+transform:translateX(170px) translateY(-140px);
+    }
+    
+    .row-3{
+    transform: translateY(120px) translateX(-20px);
+  }
+     .row-3 input{
+    scale: 0.75;
+    transform: translateX(-80px) translateY(-40px)
+  }
+  
+  .row-3 .bx-message{
+    position: absolute;
+    transform: translateX(-180px) translateY(12px) scale(0.8)
+  }
+    html .subscribe{
+      transform: translateX(130px) translateY(170px)
+    }
+    
+  }
+  
+  
 
+  
+
+  
 
 
 
