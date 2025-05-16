@@ -642,10 +642,10 @@ html .cont2, html .cont3{
 *//
  @media(max-width:360px){
     html .cart-icon{
-      transform:translateX(10px)
+      transform:translateX(20px)
     }
     html .top-nav .Logo{
-      transform:translateX(-200px)
+      transform:translateX(-190px)
     }
     
     .Searching{
@@ -708,6 +708,16 @@ transform:translateX(170px) translateY(-140px);
       transform: translateX(130px) translateY(170px)
     }
     
+  }
+   *{
+    box-sizing: border-box;
+    margin:
+  }
+ html body{
+    max-width:1333px;
+    margin:0 auto;
+    font-size: 1rem;
+    padding:0.4rem
   }
   
   
