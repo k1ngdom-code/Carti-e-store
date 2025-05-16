@@ -709,7 +709,7 @@ transform:translateX(170px) translateY(-140px);
     }
     
   }
-   *{
+  // *{
     box-sizing: border-box;
     margin:
   }
@@ -718,7 +718,7 @@ transform:translateX(170px) translateY(-140px);
     margin:0 auto;
     font-size: 1rem;
     padding:0.4rem
-  }
+  }*//
   
   
 
