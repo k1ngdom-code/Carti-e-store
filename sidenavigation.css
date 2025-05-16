@@ -640,7 +640,7 @@ html .cont2, html .cont3{
 }
 
 *//
- @media(max-width:375px){
+ @media(max-width:360px){
     html .cart-icon{
       transform:translateX(20px)
     }
